@@ -1,0 +1,11 @@
+{
+  "tolerance": 0,
+  "fov": 50,
+  "smoothing": 3,
+  "speed": 1.0,
+  "offsetX": 0,
+  "offsetY": 0,
+  "sensitivity": 0.4,
+  "color_to_track": "purple",
+  "aimbot_hotkey": "0x12"
+}
